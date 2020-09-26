@@ -1,2 +1,2 @@
-# mmWaveVanet
-Performance evaluation of 5G wireless communication in VANET for V2V &amp; V2X non-safety applications
+# mmWave Channel in VANET
+Performance evaluation of 5G wireless communication in Vehicular Ad hoc Network (VANET) suitable for vehicle to vehicle (V2V) and vehicle to anything (V2X) non-safety applications
